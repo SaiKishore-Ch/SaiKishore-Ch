@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on studies.
+- 🔭 I’m currently working on My studies.
 - 🌱 I’m currently learning DevOps with AWS.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with DevOps Notes.
